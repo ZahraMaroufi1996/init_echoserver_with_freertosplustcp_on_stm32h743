@@ -1,0 +1,2 @@
+FreeRTOS_UDP_IP.c:91:6:vProcessGeneratedUDPPacket	56	static
+FreeRTOS_UDP_IP.c:298:12:xProcessReceivedUDPPacket	40	static,ignoring_inline_asm
